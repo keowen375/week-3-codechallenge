@@ -69,7 +69,7 @@ Open a terminal / command line interface on your computer
 
 Clone the repository by using the following:
 
-  git clone https:git@github.com:matomugo60/code-challenge-3-Flatdango.git
+  git clone https:git@github.com:keowen375/code-challenge-3-Flatdango.git
 Be patient as it creates a copy on your local machine for you.
 
 Change directory to the repo folder:
@@ -96,6 +96,7 @@ To run the application, you can use the following steps
 Run this command to get the backend started:
 
     json-server --watch db.json
+    
 Test your server by visiting this route in the browser:
 
 http://localhost:3000/films
@@ -105,7 +106,12 @@ Then, open the index.html file on your browser to run the application.
 Install required dependencies from npm
 
 npm install
+
 Run the application
+
+You can also use this lnk to got to the website directly
+
+https://keowen375.github.io/week-3-codechallenge/
 
 npm node.index.js
 Author & Licence
